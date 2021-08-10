@@ -1,4 +1,4 @@
-# KryPtoN Music Bot
+# Anonymous Music Bot
 
 [![Actions Badge](https://img.shields.io/github/workflow/status/Kry9toN/KryPtoN-Music-Bot/PyCheck/master?label=Build&style=flat-square&logo=github-actions&logoColor=white&color=98CE00)](https://github.com/Kry9toN/KryPtoN-Music-Bot/actions)
 [![Codacy Badge](https://img.shields.io/codacy/grade/6275e97d871b45458235492edfa77745?style=flat-square&logo=codacy&color=17BEBB)](https://www.codacy.com/gh/Kry9toN/KryPtoN-Music-Bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kry9toN/KryPtoN-Music-Bot&amp;utm_campaign=Badge_Grade)
@@ -26,7 +26,7 @@ Music on Voice Calls Telegram
 # Usage
 Install package required
 ```
-$ git clone https://github.com/Kry9toN/KryPtoN-Music-Bot
+$ git clone https://github.com/ChatbotSupport/KryPtoN-Music-Bot
 $ cd KryPtoN-Music-Bot
 $ pip install -r requirements.txt
 ```
@@ -40,7 +40,7 @@ $ python3 -m krypton
 
 # Heroku 
 
-[![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kry9toN/KryPtoN-Music-Bot/tree/master)
+[![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChatbotSupport/KryPtoN-Music-Bot/tree/master)
 
 ### Generate String session [IMPORTANT]
 Download this file [generate_string_session.py](https://raw.githubusercontent.com/Kry9toN/KryPtoN-Music-Bot/master/generate_string_session.py)
@@ -69,11 +69,10 @@ Command | Description
 /donation | To Give Me A Coffe.
 
 ## To-Do
-- add moar feature
+- add more feature
 
 # Donation
-- [Saweria](https://saweria.co/donate/Kry9toN)
-- [Paypal](https://www.paypal.me/KomodoOS)
+- [Paypal](https://www.paypal.me/M4SK3R)
 
 # License
 [GPL-3.0 License](https://github.com/Kry9toN/KryPtoN-Music-Bot/blob/master/LICENSE.md) KryPtoN © 2021
